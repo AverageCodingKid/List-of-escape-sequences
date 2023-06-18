@@ -1,0 +1,12 @@
+# \n - Newline: Inserts a new line.
+# \t - Tab: Inserts a tab.
+# \\ - Backslash: Inserts a backslash.
+# \' - Single Quote: Inserts a single quote.
+# \" - Double Quote: Inserts a double quote.
+# \b - Backspace: Moves the cursor one space back.
+# \r - Carriage Return: Moves the cursor to the beginning of the line.
+# \f - Form Feed: Inserts a form feed character.
+# \v - Vertical Tab: Inserts a vertical tab character.
+
+string_slice = "List_of_all_of_the_escape_sequences"
+print(string_slice[0:40])
